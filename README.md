@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 Developer | HTML, CSS, JavaScript  <br>💻 Passionate about building responsive and interactive web experiences  <br>🚀 Always learning and experimenting with new web technologies  <br>
+👋 Hey I am, Suryansh Gupta   <br>💻 Developer | HTML, CSS, JavaScript  <br>🚀 Always learning and experimenting with new web technologies  <br>
 
 
 ## 🌐 Socials:
