@@ -1,5 +1,9 @@
-# 💫 About Me:
-👋 Hey, I am Suryansh Gupta   <br>💻 Developer | Flutter, Dart, JavaScript  <br>🚀 Always learning and experimenting with new web technologies  <br>
+<h2>Welcome!</h2>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlsZHg3eGliNTBhOWYwZmU0Z3NxaWZzZnlsdHpkYTY3YmVwNXhleiZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width="50">  
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E05D44&random=false&width=700&lines=👋+Hey,+I+am+Suryansh+Gupta;🔥+A+Flutter,+Dart,+and+JavaScript+enthusiast;🚀+Always+learning+and+experimenting+with+new+tech"/>  
+
+
+
 
 
 ## 🌐 Socials:
