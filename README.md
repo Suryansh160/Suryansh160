@@ -1,7 +1,10 @@
 <h2>Welcome!</h2>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlsZHg3eGliNTBhOWYwZmU0Z3NxaWZzZnlsdHpkYTY3YmVwNXhleiZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width="50">  
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E05D44&random=false&width=700&lines=👋+Hey,+I+am+Suryansh+Gupta;🔥+A+Flutter,+Dart,+and+JavaScript+enthusiast;🚀+Always+learning+and+experimenting+with+new+tech"/>  
+<div align="center">
+  
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FFA500&center=true&width=435&lines=Hii,+Suryansh+Here!)](https://github.com/Suryansh160)
 
+</div>
 
 
 
